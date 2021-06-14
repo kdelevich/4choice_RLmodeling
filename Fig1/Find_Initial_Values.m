@@ -1,5 +1,5 @@
-discrimination_choice_FSham=xlsread('/Users/kdelevic/Dropbox/D2 DMS OVX project/eLife submission/transparent reporting info/modeling for github/TrialHistories','F_Sham_Disc');
-discrimination_choice_FOVX=xlsread('/Users/kdelevic/Dropbox/D2 DMS OVX project/eLife submission/transparent reporting info/modeling for github/TrialHistories','F__OVX_Disc');
+discrimination_choice_FSham=xlsread('/Users/kdelevic/Dropbox/D2 DMS OVX project/eLife submission/transparent reporting info/modeling for github/Fig1_TrialHistories','F_Sham_Disc');
+discrimination_choice_FOVX=xlsread('/Users/kdelevic/Dropbox/D2 DMS OVX project/eLife submission/transparent reporting info/modeling for github/Fig1_TrialHistories','F__OVX_Disc');
 datasize1=size(discrimination_choice_FSham)
 datasize2=size(discrimination_choice_FOVX)
 
