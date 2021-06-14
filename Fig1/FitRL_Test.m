@@ -18,7 +18,7 @@ paramcount=Model.paramcount;
 file='/Users/kdelevic/Dropbox/D2 DMS OVX project/eLife submission/transparent reporting info/modeling for github/Fig4_TrialHistories.xlsx';
 
 %%% Names Cohorts for fitting.
-cohorts_list={'D2_mcherry','D2___hm3dq','D2___hm4di'}; %Odd OVX name to have same length name as other cohorts
+cohorts_list={'F_Sham','F__OVX'}; %underscore used to make name lengths the same across cohorts
 AnimalIter=0;
 %%%Run FitRL over the cohorts named above
 for sheet = cohorts_list
