@@ -9,4 +9,4 @@ Step-by-step guide to fit trial-by-trial multiple choice reversal task behavior:
 Step-by-step guide to generate trial data using best-fit parameters:
 1) Open Four_Choice_Simulator.m and input .mat file corresponding to parameters for desired model. It does not matter which cohort you choose for the .mat
 file; all cohorts will be simulated.
-2) 
+2) Run Four_Choice_Simulator.m
