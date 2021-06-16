@@ -15,7 +15,7 @@ paramcount=Model.paramcount;
 
 %%% Names Excel File AllCohortTrialHistories that holds FourChoice Data for
 %%% all cohorts
-file='/Users/kdelevic/Dropbox/D2 DMS OVX project/eLife submission/transparent reporting info/modeling for github/Fig4_TrialHistories.xlsx';
+file='/Users/kdelevic/Dropbox/D2 DMS OVX project/eLife submission/transparent reporting info/modeling for github/Fig1_TrialHistories.xlsx';
 
 %%% Names Cohorts for fitting.
 cohorts_list={'F_Sham','F__OVX'}; %underscore used to make name lengths the same across cohorts
